@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_short_description">Học cách tạo ứng dụng đơn giản trong Android Studio.</string>
+    <string name="notification_update_title">Đã có bản cập nhật mới!</string>
+    <string name="summary_notification_update">Một phiên bản mới của ứng dụng đã sẵn sàng. Nhấn để cập nhật!</string>
+    <string name="notification_last_time_used_title">Đã lâu không gặp!</string>
+    <string name="summary_notification_last_time_used">Hãy giải phóng một chút dung lượng! Chúng tôi rất vui khi bạn quay lại!</string>
+
+    <string name="welcome">Chào mừng</string>
+    <string name="summary_browse_terms_of_service_and_privacy_policy">Hãy đọc và đồng ý với Điều khoản Dịch vụ và Chính sách Bảo mật của chúng tôi để tiếp tục</string>
+    <string name="agree">Đồng ý</string>
+
+    <string name="navigation_drawer_open">Mở thanh điều hướng</string>
+
+    <string name="activity_not_found">Không tìm thấy hoạt động.</string>
+    <string name="security_error">Đã xảy ra lỗi bảo mật. Vui lòng thử lại sau.</string>
+    <string name="io_error">Đã xảy ra lỗi đầu vào/đầu ra. Vui lòng kiểm tra kết nối mạng hoặc bộ nhớ và thử lại.</string>
+    <string name="illegal_argument_error">Đầu vào hoặc tham số không hợp lệ. Vui lòng kiểm tra thông tin và thử lại.</string>
+    <string name="unknown_error">Đã xảy ra lỗi không xác định.</string>
+
+    <string name="share">Chia sẻ</string>
+    <string name="app_info">Thông tin ứng dụng</string>
+
+    <string name="settings">Cài đặt</string>
+
+    <string name="display">Hiển thị</string>
+    <string name="summary_preference_settings_display">Tùy chỉnh giao diện ứng dụng của bạn</string>
+
+    <string name="appearance">Giao diện</string>
+    <string name="dark_theme">Chế độ tối</string>
+    <string name="will_turn_on_automatically_by_system">Sẽ được bật tự động bởi hệ thống</string>
+    <string name="will_never_turn_on_automatically">Sẽ không bao giờ bật tự động</string>
+    <string name="amoled_mode">Chế độ AMOLED</string>
+    <string name="follow_system">Chế độ theo hệ thống</string>
+    <string name="light_mode">Chế độ sáng</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="summary_dark_theme">Chế độ tối sử dụng nền tối giúp tiết kiệm pin lâu hơn</string>
+
+    <string name="dynamic_colors">Màu động</string>
+    <string name="summary_preference_settings_dynamic_colors">Áp dụng màu sắc của hình nền vào giao diện ứng dụng</string>
+
+    <string name="app_behavior">Hành vi ứng dụng</string>
+    <string name="bounce_buttons">Nhấn để từ chối</string>
+    <string name="summary_preference_settings_bounce_buttons">Áp dụng hiệu ứng nhảy nhẹ cho tất cả các yếu tố có thể nhấp khi được nhấn</string>
+
+    <string name="language">Ngôn ngữ</string>
+    <string name="summary_preference_settings_language">Thay đổi ngôn ngữ sử dụng trong ứng dụng</string>
+    <string name="dialog_language_subtitle">Chọn ngôn ngữ ưu thích của bạn</string>
+    <string name="dialog_info_language">Tùy chỉnh trải nghiệm của bạn với ngôn ngữ ưu thích. Mọi thay đổi ngôn ngữ mà bạn thực hiện sẽ có hiệu lực ngay lập tức, đảm bảo một trải nghiệm mượt mà với ngôn ngữ đã chọn</string>
+
+    <string name="notifications">Thông báo</string>
+    <string name="summary_preference_settings_notifications">Quản lý thông báo của ứng dụng</string>
+
+    <string name="app_usage_notifications">Thông báo sử dụng ứng dụng</string>
+    <string name="update_notifications">Thông báo cập nhật</string>
+
+    <string name="advanced">Nâng cao</string>
+    <string name="summary_preference_settings_advanced">Khám phá các cài đặt nâng cao</string>
+    <string name="error_reporting">Báo cáo lỗi</string>
+    <string name="bug_report">Báo cáo lỗi</string>
+    <string name="summary_preference_settings_bug_report">Gửi báo cáo lỗi và yêu cầu tính năng tới trang vấn đề của kho lưu trữ GitHub của ứng dụng</string>
+
+    <string name="security_and_privacy">Bảo mật và quyền riêng tư</string>
+    <string name="summary_preference_settings_privacy_and_security">Quản lý các cài đặt quyền riêng tư của bạn</string>
+    <string name="privacy">Quyền riêng tư</string>
+    <string name="privacy_policy">Chính sách quyền riêng tư</string>
+    <string name="summary_preference_settings_privacy_policy">Xem chính sách liên quan đến cách chúng tôi xử lý dữ liệu của bạn</string>
+    <string name="terms_of_service">Điều khoản dịch vụ</string>
+    <string name="summary_preference_settings_terms_of_service">Xem lại các điều khoản mà bạn đồng ý khi sử dụng dịch vụ của chúng tôi</string>
+    <string name="code_of_conduct">Quy tắc ứng xử</string>
+    <string name="summary_preference_settings_code_of_conduct">Hiểu các quy tắc và hướng dẫn hành vi trong dịch vụ của chúng tôi</string>
+
+    <string name="permissions">Quyền truy cập</string>
+    <string name="summary_preference_settings_permissions">Quản lý quyền truy cập đã cấp cho dịch vụ của chúng tôi</string>
+    <string name="normal">Bình thường</string>
+    <string name="ad_id">ID quảng cáo [AD_ID]</string>
+    <string name="summary_preference_permissions_ad_id">Cho phép ứng dụng lấy và sử dụng mã nhận dạng quảng cáo liên kết với thiết bị của người dùng, cung cấp quảng cáo cá nhân hóa, đo lường hiệu quả của quảng cáo và hiển thị quảng cáo trên các thiết bị Android 13 trở lên.</string>
+    <string name="internet">Internet [INTERNET]</string>
+    <string name="summary_preference_permissions_internet">Cho phép ứng dụng kết nối với Internet để gửi báo cáo lỗi hoặc kiểm tra cập nhật.</string>
+    <string name="post_notifications">Thông báo bài đăng [POST_NOTIFICATIONS]</string>
+    <string name="summary_preference_permissions_post_notifications">Cho phép ứng dụng hiển thị thông báo trên các thiết bị chạy Android 13 trở lên.</string>
+    <string name="runtime">Thời gian chạy</string>
+    <string name="access_network_state">Trạng thái mạng [ACCESS_NETWORK_STATE]</string>
+    <string name="summary_preference_permissions_access_network_state">Cho phép ứng dụng kiểm tra kết nối mạng và lấy thông tin về Wi-Fi, bao gồm trạng thái bật và tên của các thiết bị Wi-Fi đã kết nối.</string>
+    <string name="access_notification_policy">Chính sách thông báo [ACCESS_NOTIFICATION_POLICY]</string>
+    <string name="summary_preference_permissions_access_notification_policy">Cho phép ứng dụng truy cập và thay đổi chính sách thông báo của thiết bị, kiểm soát cách thức và thời gian thông báo được hiển thị cho người dùng và cung cấp các tính năng quản lý thông báo cá nhân hóa.</string>
+    <string name="billing">Thanh toán [BILLING]</string>
+    <string name="summary_preference_permissions_billing">Cho phép ứng dụng sử dụng Thư viện thanh toán của Google Play để xử lý giao dịch và quyên góp trong ứng dụng</string>
+    <string name="check_license">Kiểm tra giấy phép [CHECK_LICENSE]</string>
+    <string name="summary_preference_permissions_check_license">Cho phép ứng dụng kiểm tra sự tuân thủ hợp đồng giấy phép và áp dụng các điều khoản cấp phép để bảo vệ tài sản trí tuệ.</string>
+    <string name="foreground_service">Dịch vụ chạy nền [FOREGROUND_SERVICE]</string>
+    <string name="summary_preference_permissions_foreground_service">Cho phép ứng dụng tạo và sử dụng dịch vụ chạy nền, ưu tiên chúng hơn các tiến trình nền khác, cải thiện hiệu suất và độ tin cậy.</string>
+
+    <string name="ads">Quảng cáo</string>
+    <string name="summary_preference_settings_ads">Kiểm soát cách chúng tôi sử dụng thông tin của bạn để hiển thị quảng cáo phù hợp</string>
+    <string name="display_ads">Quảng cáo đồ họa</string>
+    <string name="personalized_ads">Quảng cáo cá nhân hóa</string>
+    <string name="summary_ads_personalized_ads">Chọn cách chúng tôi cá nhân hóa quảng cáo cho bạn dựa trên sở thích của bạn</string>
+    <string name="summary_ads">Xem quảng cáo phù hợp với bạn. Quản lý thông tin được sử dụng để hiển thị quảng cáo cá nhân hóa dựa trên hoạt động của ứng dụng. Bạn luôn có thể tắt tính năng cá nhân hóa ở đây.\n</string>
+
+    <string name="usage_and_diagnostics">Sử dụng và chẩn đoán</string>
+    <string name="summary_preference_settings_usage_and_diagnostics">Chia sẻ dữ liệu để giúp cải thiện Cleaner cho Android</string>
+    <string name="summary_usage_and_diagnostics">Giúp cải thiện trải nghiệm của bạn bằng cách tự động gửi dữ liệu chẩn đoán, sử dụng thiết bị và ứng dụng cho chúng tôi. Điều này sẽ giúp cải thiện hiệu suất ứng dụng, độ ổn định và các cải tiến khác. Một số dữ liệu tổng hợp cũng sẽ giúp các ứng dụng của chúng tôi.\n\nĐây là thông tin chung về thiết bị của bạn và cách bạn sử dụng các ứng dụng của chúng tôi (như mức pin, hoạt động hệ thống và ứng dụng và lỗi). Dữ liệu sẽ được sử dụng để cải thiện các ứng dụng của chúng tôi\n\nTắt tính năng này không ảnh hưởng đến khả năng của thiết bị trong việc gửi thông tin cần thiết cho các dịch vụ thiết yếu như cập nhật và bảo mật ứng dụng.\n</string>
+
+    <string name="legal">Pháp lý</string>
+    <string name="legal_notices">Thông báo pháp lý</string>
+    <string name="summary_preference_settings_legal_notices">Xem thông tin pháp lý về dịch vụ của chúng tôi</string>
+    <string name="license">Giấy phép</string>
+
+    <string name="about">Giới thiệu</string>
+    <string name="summary_preference_settings_about">Tìm hiểu thêm về Android Studio Tutorials</string>
+
+    <string name="app_build_version">Phiên bản biên dịch của ứng dụng</string>
+    <string name="summary_preference_settings_oss">Chi tiết giấy phép phần mềm mã nguồn mở</string>
+    <string name="device_info">Thông tin thiết bị</string>
+    <string name="app_build">Phiên bản ứng dụng: %6$s\n%1$s\n%2$s\n%3$s\n%4$s\n%5$s</string>
+    <string name="debug">Gỡ lỗi</string>
+    <string name="release">Phát hành</string>
+    <string name="manufacturer">Nhà sản xuất:</string>
+    <string name="device_model">Mẫu thiết bị:</string>
+    <string name="android_version">Phiên bản Android:</string>
+    <string name="api_level">Cấp độ API:</string>
+    <string name="snack_device_info_copied">Thông tin thiết bị đã được sao chép vào bộ nhớ tạm</string>
+
+    <string name="help_and_feedback">Trợ giúp và phản hồi</string>
+    <string name="help">Trợ giúp</string>
+    <string name="faq">Câu hỏi thường gặp</string>
+    <string name="view_in_google_play_store">Xem trên Google Play Store</string>
+    <string name="version_info">Thông tin phiên bản</string>
+    <string name="version">Phiên bản %1$s</string>
+    <string name="beta_program">Chương trình beta</string>
+    <string name="question_1">Android Studio Tutorials: Kotlin Edition là gì?</string>
+    <string name="summary_preference_faq_1">Android Studio Tutorials: Kotlin Edition là một ứng dụng miễn phí và mã nguồn mở cung cấp bộ sưu tập các bài học video về cách sử dụng Android Studio, môi trường phát triển tích hợp (IDE) chính thức cho phát triển ứng dụng Android.</string>
+    <string name="question_2">Làm sao tôi có thể tải Android Studio Tutorials: Kotlin Edition?</string>
+    <string name="summary_preference_faq_2">Android Studio Tutorials: Kotlin Edition có sẵn để tải xuống trên Google Play Store. Chỉ cần tìm kiếm "Android Studio Tutorials" trong ứng dụng Play Store trên thiết bị Android của bạn và chạm vào "Cài đặt" để tải và cài đặt ứng dụng.</string>
+    <string name="question_3">Android Studio Tutorials: Kotlin Edition có sẵn cho thiết bị iOS không?</string>
+    <string name="summary_preference_faq_3">Không, Android Studio Tutorials: Kotlin Edition hiện tại chỉ có sẵn cho thiết bị Android.</string>
+    <string name="question_4">Android Studio Tutorials: Kotlin Edition có phù hợp cho người mới bắt đầu không?</string>
+    <string name="summary_preference_faq_4">Có, Android Studio Tutorials: Kotlin Edition phù hợp cho người mới bắt đầu làm quen với phát triển ứng dụng Android và muốn học cách sử dụng Android Studio. Ứng dụng cung cấp nhiều bài học video, bao gồm các khái niệm cơ bản về việc sử dụng Android Studio, từ việc cài đặt IDE đến xây dựng và triển khai ứng dụng đầu tiên của bạn.</string>
+    <string name="question_5">Android Studio Tutorials: Kotlin Edition có được cập nhật thường xuyên không?</string>
+    <string name="summary_preference_faq_5">Có, Android Studio Tutorials: Kotlin Edition được cập nhật thường xuyên với các bài học video và nội dung mới để giúp người dùng cập nhật các tính năng và thay đổi mới nhất của Android Studio.</string>
+    <string name="question_6">Làm sao tôi có thể nhận hỗ trợ nếu gặp phải thắc mắc hoặc vấn đề với Android Studio Tutorials: Kotlin Edition?</string>
+    <string name="summary_preference_faq_6">Nếu bạn có thắc mắc hoặc vấn đề với Android Studio Tutorials: Kotlin Edition, vui lòng liên hệ với chúng tôi qua trang hỗ trợ của ứng dụng hoặc qua email d4rk7355608@gmail.com. Chúng tôi sẽ cố gắng hết sức để giúp bạn giải quyết mọi vấn đề bạn gặp phải.</string>
+    <string name="question_7">Làm sao tôi có thể vô hiệu hóa Firebase Analytics và Crashlytics trong Android Studio Tutorials: Kotlin Edition?</string>
+    <string name="summary_preference_faq_7">Bạn có thể vô hiệu hóa Firebase Analytics và Crashlytics bằng cách truy cập vào menu cài đặt trong ứng dụng và chuyển công tắc cho các tính năng này.</string>
+    <string name="question_8">Làm sao tôi có thể kiểm tra các bản cập nhật của Android Studio Tutorials: Kotlin Edition?</string>
+    <string name="summary_preference_faq_8">Bạn có thể kiểm tra bản cập nhật cho Android Studio Tutorials: Kotlin Edition bằng cách truy cập vào menu cài đặt trong ứng dụng và chọn "Kiểm tra bản cập nhật".</string>
+    <string name="question_9">Làm sao tôi có thể hỗ trợ phát triển Android Studio Tutorials: Kotlin Edition?</string>
+    <string name="summary_preference_faq_9">Bạn có thể hỗ trợ phát triển Android Studio Tutorials: Kotlin Edition bằng cách để lại đánh giá tích cực trên Google Play Store, chia sẻ ứng dụng với bạn bè và đồng nghiệp, và hỗ trợ các nhà phát triển thông qua tùy chọn "Chia sẻ" trong menu cài đặt.</string>
+    <string name="feedback">Phản hồi</string>
+
+    <string name="updates">Cập nhật</string>
+
+    <string name="support_us">Hỗ trợ chúng tôi</string>
+    <string name="paid_support">Hỗ trợ trả phí</string>
+    <string name="summary_donations">Dù bạn đóng góp bao nhiêu, bạn sẽ giúp chúng tôi duy trì và cải thiện các tính năng của ứng dụng. Chúng tôi rất biết ơn sự hào phóng và tốt bụng của bạn!</string>
+    <string name="non_paid_support">Hỗ trợ không trả phí</string>
+    <string name="web_ad">Quảng cáo trên web</string>
+
+    <string name="snack_app_updated">Ứng dụng đã được cập nhật thành công</string>
+    <string name="snack_update_failed">Quá trình cập nhật gặp vấn đề</string>
+    <string name="try_again">Thử lại</string>
+    <string name="summary_share_message">Hãy kiểm tra ứng dụng tuyệt vời này mà tôi đang sử dụng! Nó có một số tính năng rất thú vị mà bạn có thể thấy hữu ích. Bạn có thể tải xuống từ Play Store tại: %1$s</string>
+    <string name="learn_more">Tìm hiểu thêm</string>
+
+    <string name="close">Đóng?</string>
+    <string name="summary_close">Bạn có chắc chắn muốn thoát không?</string>
+</resources>
